@@ -11,7 +11,10 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
   - [Paper](#paper)
     - [Kinematics and modeling](#kinematics-and-modeling)
     - [Multiple task for redundant robot](#multiple-task-for-redundant-robot)
+    - [Whole body control](#whole-body-control)
     - [MPC based](#mpc-based)
+    - [DRL based](#drl-based)
+    - [Different desings MM](#different-desings-mm)
 
 </br>
 
@@ -26,5 +29,14 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
 - [General framework for Multiple task](https://www.semanticscholar.org/paper/A-general-framework-for-managing-multiple-tasks-in-Siciliano-Slotine/2e18e91848ee24dd3d6291a414e96a8a4e5d9550)
 - [Task priority framework to inequality task](https://www.semanticscholar.org/paper/Kinematic-Control-of-Redundant-Manipulators%3A-the-to-Kanoun-Lamiraux/3ffd88dc7376ec6b6f701f509f6ebcc03938f9cb)
 
+### Whole body control
+- [Object centered Hybrid reasoning for WBC MM](https://ieeexplore.ieee.org/abstract/document/6907099?casa_token=J10QhzVa5KkAAAAA:DnyJeBdQoSYHfDU7zHxw_DO6tZEXAak9i6NBErghzMYz8Gw5phhl2sZ-hZWlWbRKhWJFW28S8lYD)
+  
 ### MPC based
 - [MPC for Continuous](https://www.semanticscholar.org/paper/Perceptive-Model-Predictive-Control-for-Continuous-Pankert-Hutter/c46268e25aa89011c4c0a71194578ed4770dd279)
+
+### DRL based
+- [Learning MM thr DRL](https://www.mdpi.com/1424-8220/20/3/939)
+
+### Different desings MM
+- [MM and mobilty as Manipulation](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21566?casa_token=qKcVY09YLeQAAAAA%3AFxgS4mq17IkWEFI2ZJM1s7K2fneUdweGDfkkNI0iUuE9dX2fM_CYqvgYB56oSZiTJmGXhsy67gaSJRJn4Q)
