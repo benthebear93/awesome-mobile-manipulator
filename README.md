@@ -25,6 +25,7 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
 - [Differntial Inverse Kinematics Control w/ QP](https://www.semanticscholar.org/paper/Mobile-Manipulation-in-Unknown-Environments-with-Heins-Jakob/779d9b0fd185f04bfc0a5c55ee556c7f9f785187?sort=relevance&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=20)
 - [Kinematic modeling](https://www.semanticscholar.org/paper/Kinematic-modeling-and-redundancy-resolution-for-Luca-Oriolo/58e514e8fa96fe2bd5426aabed28d3f21afb473b)
 - [Kinematic Control of Redundant Mobile Manipulators](https://www.proquest.com/openview/1d03b7a85af81e0359680f5d29526753/1?pq-origsite=gscholar&cbl=18750)
+- [Kinematic Modeling and Redundancy Resolution for Nonholonomic Mobile Manipulators](https://ieeexplore.ieee.org/document/1641978)
 
 ### Multiple task for redundant robot
 - [General framework for Multiple task](https://www.semanticscholar.org/paper/A-general-framework-for-managing-multiple-tasks-in-Siciliano-Slotine/2e18e91848ee24dd3d6291a414e96a8a4e5d9550)
