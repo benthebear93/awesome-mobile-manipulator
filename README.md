@@ -30,6 +30,7 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
 ### Multiple task for redundant robot
 - [General framework for Multiple task](https://www.semanticscholar.org/paper/A-general-framework-for-managing-multiple-tasks-in-Siciliano-Slotine/2e18e91848ee24dd3d6291a414e96a8a4e5d9550)
 - [Task priority framework to inequality task](https://www.semanticscholar.org/paper/Kinematic-Control-of-Redundant-Manipulators%3A-the-to-Kanoun-Lamiraux/3ffd88dc7376ec6b6f701f509f6ebcc03938f9cb)
+- [Advanced Robotics:Redundancy and Optimization](https://roboticsnakamura.wordpress.com/2020/06/02/pdf-version-advanced-robotics-redundancy-and-optimization/)
 
 ### Whole body control
 - [Object centered Hybrid reasoning for WBC MM](https://ieeexplore.ieee.org/abstract/document/6907099?casa_token=J10QhzVa5KkAAAAA:DnyJeBdQoSYHfDU7zHxw_DO6tZEXAak9i6NBErghzMYz8Gw5phhl2sZ-hZWlWbRKhWJFW28S8lYD)
@@ -42,3 +43,4 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
 
 ### Different desings MM
 - [MM and mobilty as Manipulation](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21566?casa_token=qKcVY09YLeQAAAAA%3AFxgS4mq17IkWEFI2ZJM1s7K2fneUdweGDfkkNI0iUuE9dX2fM_CYqvgYB56oSZiTJmGXhsy67gaSJRJn4Q)
+
