@@ -15,6 +15,7 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
     - [MPC based](#mpc-based)
     - [DRL based](#drl-based)
     - [Different desings MM](#different-desings-mm)
+    - [Task and Motion planning](#task-and-motion-planning)
 
 </br>
 
@@ -44,3 +45,5 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
 ### Different desings MM
 - [MM and mobilty as Manipulation](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21566?casa_token=qKcVY09YLeQAAAAA%3AFxgS4mq17IkWEFI2ZJM1s7K2fneUdweGDfkkNI0iUuE9dX2fM_CYqvgYB56oSZiTJmGXhsy67gaSJRJn4Q)
 
+### Task and Motion planning
+- [Combined Task and Motion Planning for Mobile Manipulation](https://ojs.aaai.org/index.php/ICAPS/article/view/13436/13285)
