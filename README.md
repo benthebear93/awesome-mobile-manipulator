@@ -33,6 +33,7 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
 - [Task priority framework to inequality task](https://www.semanticscholar.org/paper/Kinematic-Control-of-Redundant-Manipulators%3A-the-to-Kanoun-Lamiraux/3ffd88dc7376ec6b6f701f509f6ebcc03938f9cb)
 - [Advanced Robotics:Redundancy and Optimization](https://roboticsnakamura.wordpress.com/2020/06/02/pdf-version-advanced-robotics-redundancy-and-optimization/)
 - [QP-based refined manipulability-maximizing scheme for coordinated motion planning and control of physically constrained wheeled mobile redundant manipulators](https://link.springer.com/article/10.1007/s11071-016-2681-9)
+
 ### Whole body control
 - [Object centered Hybrid reasoning for WBC MM](https://ieeexplore.ieee.org/abstract/document/6907099?casa_token=J10QhzVa5KkAAAAA:DnyJeBdQoSYHfDU7zHxw_DO6tZEXAak9i6NBErghzMYz8Gw5phhl2sZ-hZWlWbRKhWJFW28S8lYD)
   
@@ -47,3 +48,5 @@ Reading list of awesome things that related to mobile manipulator by [Haegu Lee]
 
 ### Task and Motion planning
 - [Combined Task and Motion Planning for Mobile Manipulation](https://ojs.aaai.org/index.php/ICAPS/article/view/13436/13285)
+- [Replacing the office intern: An autonomous coffee run with a mobile manipulator](https://ieeexplore.ieee.org/document/6630731)
+- [Motion Planning for Mobile Manipulators along Given End-effector Paths](https://ieeexplore.ieee.org/document/1570432)
